@@ -1,6 +1,6 @@
 export const SITE = {
   title: "What's Wrong Now Dad?",
-  description: 'A site to help parents understand current gadgets(Apple products to start with).',
+  description: 'Help for all the kids who deal with parents and technology',
   defaultLanguage: 'en_US',
 };
 
